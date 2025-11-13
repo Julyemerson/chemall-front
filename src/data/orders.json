@@ -1,0 +1,21 @@
+[
+  {
+    "id": "1",
+    "customerId": "1",
+    "items": [
+      {
+        "productId": "5",
+        "quantity": 2,
+        "unitPrice": 50.00
+      },
+      {
+        "productId": "3",
+        "quantity": 1,
+        "unitPrice": 75.00
+      }
+    ],
+    "subtotal": 175.00,
+    "shipping": null,
+    "total": 175.00
+  }
+]
