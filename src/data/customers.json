@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1",
+    "companyName": "Empresa A",
+    "cnpj": "00.000.000/0001-01",
+    "address": "Av. Paulista, 1000",
+    "city": "São Paulo",
+    "state": "SP",
+    "cep": "01310-100",
+    "phone": "(11) 99999-9999",
+    "email": "contato@empresa-a.com",
+    "contactName": "João da Silva"
+  },
+  {
+    "id": "2",
+    "companyName": "Empresa B",
+    "cnpj": "00.000.000/0001-02",
+    "address": "R. da Alfândega, 200",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "cep": "20070-004",
+    "phone": "(21) 98888-8888",
+    "email": "contato@empresa-b.com",
+    "contactName": "Maria Souza"
+  }
+]

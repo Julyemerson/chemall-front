@@ -1,0 +1,75 @@
+[
+  {
+    "id": "1",
+    "name": "Acetona",
+    "casNumber": "67-64-1",
+    "chemicalFormula": "C₃H₆O",
+    "purityGrade": ">99.5%",
+    "price": "Solicitar Cotação",
+    "imageUrl": "/placeholders/acetone.png",
+    "category": "Solventes"
+  },
+  {
+    "id": "2",
+    "name": "Álcool Isopropílico",
+    "casNumber": "67-63-0",
+    "chemicalFormula": "C₃H₈O",
+    "purityGrade": "Grau Técnico",
+    "price": "Solicitar Cotação",
+    "imageUrl": "/placeholders/isopropilico.png",
+    "category": "Solventes"
+  },
+  {
+    "id": "3",
+    "name": "Hidróxido de Sódio",
+    "casNumber": "1310-73-2",
+    "chemicalFormula": "NaOH",
+    "purityGrade": "Grau Farmacêutico",
+    "price": "Solicitar Cotação",
+    "imageUrl": "/placeholders/hidroxido.png",
+    "category": "Bases"
+  },
+  {
+    "id": "4",
+    "name": "Metanol",
+    "casNumber": "67-56-1",
+    "chemicalFormula": "CH₄O",
+    "purityGrade": ">99.8%",
+    "price": "Solicitar Cotação",
+    "imageUrl": "/placeholders/metanol.png",
+    "category": "Solventes"
+  },
+  {
+    "id": "5",
+    "name": "Ácido Clorídrico",
+    "casNumber": "7647-01-0",
+    "chemicalFormula": "HCl",
+    "purityGrade": "37%",
+    "price": "Solicitar Cotação",
+    "imageUrl": "/placeholders/cloridrico.png",
+    "category": "Ácidos"
+  },
+  {
+    "id": "6",
+    "name": "Ácido Sulfúrico 98% P.A.",
+    "casNumber": "7664-93-9",
+    "chemicalFormula": "H₂SO₄",
+    "purityGrade": "≥ 98%",
+    "price": null,
+    "imageUrl": "https://lh3.googleusercontent.com/aida-public/AB6AXuDgIzJ3atJ3LfI-EbilX_Ai-BRefqX4wQPhVd3OIVS9cFQXVjlYT1Eg0D9zMmsmYT__w-HxDOiJX0L7msv4N7BpS80TQXuAF3Df0mNJXoVvRdsNfexTCEIeqACEbF4wrcPqSiGb6eqzt7ZXhd7Dmmyg1K6Kxxwl8KGjVxTnvIVwVbk5Ntntd6QnLyfSYPfB7bR2Ir5A2WYw-6UeSUn4NKqmIYZX4PEjdupfjqx7-p2KmVt2Nttc2pB3kqsjxXZthsf5FB6T8oi77j0Y",
+    "sdsUrl": "#",
+    "coaUrl": "#",
+    "specifications": {
+      "Pureza": "≥ 98%",
+      "Densidade": "1.84 g/cm³",
+      "Ponto de Ebulição": "337 °C",
+      "Massa Molar": "98.079 g/mol"
+    },
+    "purchaseOptions": [
+      "1L",
+      "5L",
+      "20L"
+    ],
+    "category": "Ácidos"
+  }
+]
